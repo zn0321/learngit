@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git TEXT.
 stupid.
 Creating a new branch is quick and simple and useful.
+stupid.
